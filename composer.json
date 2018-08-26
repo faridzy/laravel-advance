@@ -19,8 +19,8 @@
     },
     "autoload": {
         "classmap": [
-            "Common/database/seeds",
-            "Common/database/factories"
+            "common/database/seeds",
+            "common/database/factories"
         ],
         "psr-4": {
             "Administrator\\": "administrator/app/",
