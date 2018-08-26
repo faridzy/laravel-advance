@@ -26,7 +26,7 @@
             "Administrator\\": "Administrator/app/",
             "Frontend\\": "Frontend/app/",
             "Common\\": "Common/",
-            "Helpers\\":"Helpers"
+            "Helpers\\":"Helpers/"
         }
     },
     "autoload-dev": {
