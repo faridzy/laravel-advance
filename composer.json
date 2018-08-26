@@ -23,10 +23,9 @@
             "Common/database/factories"
         ],
         "psr-4": {
-            "Administrator\\": "Administrator/app/",
-            "Frontend\\": "Frontend/app/",
-            "Common\\": "Common/",
-            "Helpers\\":"Helpers/"
+            "Administrator\\": "administrator/app/",
+            "Frontend\\": "frontend/app/",
+            "Common\\": "common/"
         }
     },
     "autoload-dev": {
@@ -42,8 +41,8 @@
     },
     "scripts": {
         "post-root-package-install": [
-            "@php -r \"file_exists('.env') || copy('.env.example', 'Frontend/.env');\"",
-            "@php -r \"file_exists('.env') || copy('.env.example', 'Administrator/.env');\""
+            "@php -r \"file_exists('.env') || copy('.env.example', 'frontend/.env');\"",
+            "@php -r \"file_exists('.env') || copy('.env.example', 'administrator/.env');\""
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate",

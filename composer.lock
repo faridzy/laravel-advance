@@ -67,7 +67,7 @@
             },
             "autoload": {
                 "psr-4": {
-                    "Doctrine\\Common\\Inflector\\": "lib/Doctrine/Common/Inflector"
+                    "Doctrine\\common\\Inflector\\": "lib/Doctrine/common/Inflector"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -96,7 +96,7 @@
                     "email": "schmittjoh@gmail.com"
                 }
             ],
-            "description": "Common String Manipulations with regard to casing and singular/plural rules.",
+            "description": "common String Manipulations with regard to casing and singular/plural rules.",
             "homepage": "http://www.doctrine-project.org",
             "keywords": [
                 "inflection",
@@ -131,7 +131,7 @@
             },
             "autoload": {
                 "psr-0": {
-                    "Doctrine\\Common\\Lexer\\": "lib/"
+                    "Doctrine\\common\\Lexer\\": "lib/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1004,7 +1004,7 @@
                     "homepage": "http://www.php-fig.org/"
                 }
             ],
-            "description": "Common Container Interface (PHP FIG PSR-11)",
+            "description": "common Container Interface (PHP FIG PSR-11)",
             "homepage": "https://github.com/php-fig/container",
             "keywords": [
                 "PSR-11",
@@ -1053,7 +1053,7 @@
                     "homepage": "http://www.php-fig.org/"
                 }
             ],
-            "description": "Common interface for logging libraries",
+            "description": "common interface for logging libraries",
             "homepage": "https://github.com/php-fig/log",
             "keywords": [
                 "log",
@@ -1100,7 +1100,7 @@
                     "homepage": "http://www.php-fig.org/"
                 }
             ],
-            "description": "Common interfaces for simple caching",
+            "description": "common interfaces for simple caching",
             "keywords": [
                 "cache",
                 "caching",
@@ -2831,7 +2831,7 @@
                     "email": "opensource@ijaap.nl"
                 }
             ],
-            "description": "Common reflection classes used by phpdocumentor to reflect the code structure",
+            "description": "common reflection classes used by phpdocumentor to reflect the code structure",
             "homepage": "http://www.phpdoc.org",
             "keywords": [
                 "FQSEN",

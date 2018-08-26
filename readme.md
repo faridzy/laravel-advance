@@ -2,7 +2,7 @@
 <p>Administrator folder for backend procces.
 <p>Frontend folder for frontend proccess.
 <p>Helpers folder for functional class when your app need.
-<p>Common folder for config your app and folder sharing.
+<p>common folder for config your app and folder sharing.
 
 #Installation
 **composer install
