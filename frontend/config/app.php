@@ -10,7 +10,7 @@
 
 $returnArray = [
 
-    'name' => 'frontend',
+    'name' => 'Frontend',
 
     'providers' => [
 

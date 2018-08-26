@@ -14,7 +14,7 @@ return [
     |SET IN local config
     */
 
-    //'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Laravel'),
 
     /*
     |--------------------------------------------------------------------------

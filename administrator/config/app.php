@@ -10,7 +10,7 @@
 
 $returnArray = [
 
-    'name' => 'Backend',
+    'name' => 'Administrator',
 
     'providers' => [
         /*

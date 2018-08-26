@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/', 'MainPage');
+Route::get('/', 'LoginController@index');
